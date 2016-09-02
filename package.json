@@ -15,6 +15,6 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "~2.9.34",
-    "dockerode": "~2.2.2"
+    "dockerode": "~2.3.0"
   }
 }
